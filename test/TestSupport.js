@@ -1,4 +1,4 @@
-import { DataSet } from "vis-data/peer";
+import { DataSet } from "vis-data/peer"; //MODIFIED FROM ORIGINAL
 
 const TestSupport = {
   buildMockItemSet: () => {

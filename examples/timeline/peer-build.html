@@ -2,9 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>
-      Timeline | Peer Build
-    </title>
+    <title>Timeline | Peer Build</title>
 
     <!-- Optionally also include locales for Moment. -->
     <script
@@ -96,7 +94,7 @@
 
     <h5>Bundled ESM</h5>
     <pre><code>
-import { DataSet } from "vis-data/peer";
+import { DataSet } from "vis-data/peer"; <!-- MODIFIED FROM ORIGINAL -->
 import { Timeline } from "vis-timeline/peer";
 import "vis-timeline/styles/vis-timeline-graph2d.css";
 // You may import from other packages like Vis Network or Vis Graph3D here.
@@ -137,7 +135,7 @@ const timeline = new Timeline(container, items, options);
         { id: 3, content: "item 3", start: "2014-04-18" },
         { id: 4, content: "item 4", start: "2014-04-16", end: "2014-04-19" },
         { id: 5, content: "item 5", start: "2014-04-25" },
-        { id: 6, content: "item 6", start: "2014-04-27", type: "point" }
+        { id: 6, content: "item 6", start: "2014-04-27", type: "point" },
       ]);
 
       // Configuration for the Timeline

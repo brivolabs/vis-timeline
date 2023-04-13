@@ -1,6 +1,6 @@
 import assert from "assert";
 import jsdom_global from "jsdom-global";
-import { DataSet } from "vis-data/peer";
+import { DataSet } from "vis-data/peer"; //MODIFIED FROM ORIGINAL
 import Timeline from "../lib/timeline/Timeline";
 
 const internals = {};

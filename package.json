@@ -1,6 +1,6 @@
 {
   "name": "@brivo/vis-timeline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "homepage": "https://visjs.github.io/vis-timeline/",
   "license": "(Apache-2.0 OR MIT)",
@@ -113,6 +113,7 @@
     "macleodbroad-wf <macleodbroad-wf@users.noreply.github.com>",
     "Martin Fischer <Arthur.Spooner@gmail.com>",
     "Brad Hards <bradh@frogmouth.net>",
+    "catherine_baird <catherine.baird@brivo.com>",
     "Chris Jackson <chris@cd-jackson.com>",
     "Lewis B <lewisjb@users.noreply.github.com>",
     "Brendon Page <brendon.page@chillisoft.co.za>",
@@ -123,7 +124,6 @@
     "Dan Turkenkopf <dturkenk@gmail.com>",
     "Tomina <tomina@vycital.eu>",
     "Uli Fahrer <Tooa@users.noreply.github.com>",
-    "catherine_baird <catherine.baird@brivo.com>",
     "Felix Hayashi <ninshinobi@msn.com>",
     "Ben Morton <ben.morton91@gmail.com>",
     "Jason Jijón <jasonex7@gmail.com>",
